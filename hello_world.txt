@@ -1,1 +1,3 @@
 My First commit edit
+git commit
+"Test git commit with VScode"
